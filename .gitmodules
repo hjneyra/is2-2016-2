@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/hjneyra/is2-2016-2-final.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/hjneyra/is2-2016-2-ui-final.git
+[submodule "common"]
+	path = common
+	url = https://github.com/hjneyra/is2-2016-2-common.git
